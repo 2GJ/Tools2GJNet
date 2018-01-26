@@ -1,0 +1,4 @@
+E:\Proyectos\Tools2GJ\NET\Tools2GJ\bin\Debug\Tools2GJ.dll
+E:\Proyectos\Tools2GJ\NET\Tools2GJ\bin\Debug\Tools2GJ.pdb
+E:\Proyectos\Tools2GJ\NET\Tools2GJ\obj\Debug\Tools2GJ.dll
+E:\Proyectos\Tools2GJ\NET\Tools2GJ\obj\Debug\Tools2GJ.pdb
