@@ -4,5 +4,6 @@ E:\Proyectos\Tools2GJ\NET\Tools2GJ\obj\Debug\Tools2GJ.dll
 E:\Proyectos\Tools2GJ\NET\Tools2GJ\obj\Debug\Tools2GJ.pdb
 C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\NewRobot2GJ\Tools2GJNet\bin\Debug\Tools2GJ.dll
 C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\NewRobot2GJ\Tools2GJNet\bin\Debug\Tools2GJ.pdb
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\NewRobot2GJ\Tools2GJNet\obj\Debug\Tools2GJ.csprojResolveAssemblyReference.cache
 C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\NewRobot2GJ\Tools2GJNet\obj\Debug\Tools2GJ.dll
 C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\NewRobot2GJ\Tools2GJNet\obj\Debug\Tools2GJ.pdb
